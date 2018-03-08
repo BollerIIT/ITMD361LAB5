@@ -1,3 +1,9 @@
+h2 {
+	font-family: Comic Sans MS;
+	font-size: 36px;
+	color: black;
+	text-align: center;
+}
 table, td, th {
     border: 2px solid black;
 }
