@@ -11,10 +11,7 @@ table {
     width: 100%;
 }
 
-th {
-	text-align: left;
-	vertical-align: center;
-}
-td {
-	vertical-align: center;
+td, th {
+    padding: 15px;
+    text-align: left;
 }
