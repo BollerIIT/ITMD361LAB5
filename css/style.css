@@ -2,3 +2,19 @@ body {
   background-image: url(../images/nebula.jpg);
   background-size: cover;
 }
+table, td, th {
+    border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+	text-align: left;
+	vertical-align: center;
+}
+td {
+	vertical-align: center;
+}
